@@ -1,0 +1,11 @@
+# Testing
+
+testing repository
+
+<<<<<<< HEAD
+## Hello Git
+Hello, git world!
+=======
+## Hello Git!
+Hello, Git world!
+>>>>>>> test
